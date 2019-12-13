@@ -8,3 +8,7 @@ Technology
 MySQL
 Node.js
 Database Queries
+
+
+Link to video:
+https://drive.google.com/file/d/1o--srFgNf8ezdAUaX__uCIoxuHCFRBXp/view
